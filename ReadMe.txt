@@ -39,7 +39,7 @@ Contents
 		- "Entered natural number but does not work" : When the 
 		program tells you to "enter only natural numbers" but you
 		have made sure that your number does only contain the
-		character 0 to 9 and no comma, the number is too big for
+		characters 0 to 9 and no comma, the number is too big for
 		the program to handle.
 		
 	
